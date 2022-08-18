@@ -9,6 +9,7 @@ func Somar(a int, b int) int {
 //Divide divide dois numeros
 func Divide(n1 int, n2 int) int {
 	return n1 / n2
+	
 }
 
 //Mult multiplica dois numeros
