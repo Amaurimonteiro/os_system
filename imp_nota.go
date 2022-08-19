@@ -11,6 +11,7 @@ func imp_nota(nota float64) {
 		fmt.Println("Aprovado com nota ", nota)
 	} else {
 		fmt.Println("Reprovado com nota ", nota)
+
 	}
 }
 
