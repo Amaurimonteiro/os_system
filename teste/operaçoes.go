@@ -1,4 +1,4 @@
-package matematica
+package main
 
 // Somar devolve a soma de dois Numeros
 func Somar(a int, b int) int {
