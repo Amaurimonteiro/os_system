@@ -6,7 +6,7 @@ func Somar(a int, b int) int {
 
 }
 
-//Div divide dois numeros
+//Div divide dois numeros teste
 func Div(n1 int, n2 int) int {
 	return n1 / n2
 }
