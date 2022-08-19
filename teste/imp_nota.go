@@ -15,5 +15,5 @@ func main() {
 	imp_nota(5.1)
 	fmt.Println(matematica.Somar(2, 5))
 	fmt.Println(matematica.Mult(2, 5))
-	fmt.Println(matematica.Divide(6, 2))
+	fmt.Println(matematica.Div(6, 2))
 }
